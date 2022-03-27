@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Magma/static/css/main.2f1e5032.css",
-    "main.js": "/Magma/static/js/main.e00a4bb0.js",
+    "main.css": "/Magma/static/css/main.2f611a76.css",
+    "main.js": "/Magma/static/js/main.01a4d7f4.js",
     "static/js/787.484944ef.chunk.js": "/Magma/static/js/787.484944ef.chunk.js",
     "static/media/contact-section-bkg.png": "/Magma/static/media/contact-section-bkg.3a54716e1f568c95f8b0.png",
     "static/media/vision-section-pic.png": "/Magma/static/media/vision-section-pic.285cbc256dc9c87b5b80.png",
@@ -14,6 +14,7 @@
     "static/media/services1.jpg": "/Magma/static/media/services1.4eb85366f6dbf8fb7ebd.jpg",
     "static/media/product1.png": "/Magma/static/media/product1.2db5e4203b46100c08a3.png",
     "static/media/product2.png": "/Magma/static/media/product2.5612b1faefa33fdc473d.png",
+    "static/media/backgroundFooter.jpg": "/Magma/static/media/backgroundFooter.9f0ede1f2e6d93838356.jpg",
     "static/media/hero-vector.png": "/Magma/static/media/hero-vector.bedd076243fe48ce8cfb.png",
     "static/media/product3.png": "/Magma/static/media/product3.5ee007916f6206a64eba.png",
     "static/media/contactimage.png": "/Magma/static/media/contactimage.70734bbfdafbeb3c5637.png",
@@ -21,12 +22,12 @@
     "static/media/Line.png": "/Magma/static/media/Line.7aaa29e9dbf606369014.png",
     "static/media/product4.png": "/Magma/static/media/product4.fd2de016e313cfdc58c8.png",
     "index.html": "/Magma/index.html",
-    "main.2f1e5032.css.map": "/Magma/static/css/main.2f1e5032.css.map",
-    "main.e00a4bb0.js.map": "/Magma/static/js/main.e00a4bb0.js.map",
+    "main.2f611a76.css.map": "/Magma/static/css/main.2f611a76.css.map",
+    "main.01a4d7f4.js.map": "/Magma/static/js/main.01a4d7f4.js.map",
     "787.484944ef.chunk.js.map": "/Magma/static/js/787.484944ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f1e5032.css",
-    "static/js/main.e00a4bb0.js"
+    "static/css/main.2f611a76.css",
+    "static/js/main.01a4d7f4.js"
   ]
 }
