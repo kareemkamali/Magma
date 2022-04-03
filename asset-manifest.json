@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Magma/static/css/main.29e6405c.css",
-    "main.js": "/Magma/static/js/main.dd6ee864.js",
+    "main.css": "/Magma/static/css/main.e785ccb0.css",
+    "main.js": "/Magma/static/js/main.0ac352c3.js",
     "static/js/787.484944ef.chunk.js": "/Magma/static/js/787.484944ef.chunk.js",
     "static/media/contactimage.png": "/Magma/static/media/contactimage.9777cd751f8e060ace9d.png",
     "static/media/contact-section-bkg.png": "/Magma/static/media/contact-section-bkg.3a54716e1f568c95f8b0.png",
@@ -27,12 +27,12 @@
     "static/media/Line2.png": "/Magma/static/media/Line2.9f767a19a5b25252a47e.png",
     "static/media/product4.png": "/Magma/static/media/product4.fd2de016e313cfdc58c8.png",
     "index.html": "/Magma/index.html",
-    "main.29e6405c.css.map": "/Magma/static/css/main.29e6405c.css.map",
-    "main.dd6ee864.js.map": "/Magma/static/js/main.dd6ee864.js.map",
+    "main.e785ccb0.css.map": "/Magma/static/css/main.e785ccb0.css.map",
+    "main.0ac352c3.js.map": "/Magma/static/js/main.0ac352c3.js.map",
     "787.484944ef.chunk.js.map": "/Magma/static/js/787.484944ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29e6405c.css",
-    "static/js/main.dd6ee864.js"
+    "static/css/main.e785ccb0.css",
+    "static/js/main.0ac352c3.js"
   ]
 }
