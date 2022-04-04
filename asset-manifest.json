@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Magma/static/css/main.8bb783ea.css",
-    "main.js": "/Magma/static/js/main.a189174a.js",
+    "main.js": "/Magma/static/js/main.b2e72d31.js",
     "static/js/787.484944ef.chunk.js": "/Magma/static/js/787.484944ef.chunk.js",
     "static/media/contactimage.png": "/Magma/static/media/contactimage.9777cd751f8e060ace9d.png",
     "static/media/contact-section-bkg.png": "/Magma/static/media/contact-section-bkg.3a54716e1f568c95f8b0.png",
@@ -31,11 +31,11 @@
     "static/media/product4.png": "/Magma/static/media/product4.fd2de016e313cfdc58c8.png",
     "index.html": "/Magma/index.html",
     "main.8bb783ea.css.map": "/Magma/static/css/main.8bb783ea.css.map",
-    "main.a189174a.js.map": "/Magma/static/js/main.a189174a.js.map",
+    "main.b2e72d31.js.map": "/Magma/static/js/main.b2e72d31.js.map",
     "787.484944ef.chunk.js.map": "/Magma/static/js/787.484944ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8bb783ea.css",
-    "static/js/main.a189174a.js"
+    "static/js/main.b2e72d31.js"
   ]
 }
