@@ -1,8 +1,13 @@
 {
   "files": {
-    "main.css": "/Magma/static/css/main.d2e94a77.css",
-    "main.js": "/Magma/static/js/main.5a51bf39.js",
+    "main.css": "/Magma/static/css/main.127f44cb.css",
+    "main.js": "/Magma/static/js/main.920ecbf0.js",
+    "static/js/817.2343ea25.chunk.js": "/Magma/static/js/817.2343ea25.chunk.js",
+    "static/js/837.31d1fd93.chunk.js": "/Magma/static/js/837.31d1fd93.chunk.js",
+    "static/js/23.4af3a2aa.chunk.js": "/Magma/static/js/23.4af3a2aa.chunk.js",
+    "static/js/165.9d0d22d6.chunk.js": "/Magma/static/js/165.9d0d22d6.chunk.js",
     "static/js/787.484944ef.chunk.js": "/Magma/static/js/787.484944ef.chunk.js",
+    "static/js/541.90c896b0.chunk.js": "/Magma/static/js/541.90c896b0.chunk.js",
     "static/media/TemplateBg.png": "/Magma/static/media/TemplateBg.b1cb8686abdff169f211.png",
     "static/media/contactimage.png": "/Magma/static/media/contactimage.5f5172077eb05aa08df8.png",
     "static/media/contact-section-bkg.png": "/Magma/static/media/contact-section-bkg.3a54716e1f568c95f8b0.png",
@@ -44,12 +49,17 @@
     "static/media/product4.png": "/Magma/static/media/product4.fd2de016e313cfdc58c8.png",
     "static/media/VisionBg.jpg": "/Magma/static/media/VisionBg.f7c7b8fce0b3c2da632b.jpg",
     "index.html": "/Magma/index.html",
-    "main.d2e94a77.css.map": "/Magma/static/css/main.d2e94a77.css.map",
-    "main.5a51bf39.js.map": "/Magma/static/js/main.5a51bf39.js.map",
-    "787.484944ef.chunk.js.map": "/Magma/static/js/787.484944ef.chunk.js.map"
+    "main.127f44cb.css.map": "/Magma/static/css/main.127f44cb.css.map",
+    "main.920ecbf0.js.map": "/Magma/static/js/main.920ecbf0.js.map",
+    "817.2343ea25.chunk.js.map": "/Magma/static/js/817.2343ea25.chunk.js.map",
+    "837.31d1fd93.chunk.js.map": "/Magma/static/js/837.31d1fd93.chunk.js.map",
+    "23.4af3a2aa.chunk.js.map": "/Magma/static/js/23.4af3a2aa.chunk.js.map",
+    "165.9d0d22d6.chunk.js.map": "/Magma/static/js/165.9d0d22d6.chunk.js.map",
+    "787.484944ef.chunk.js.map": "/Magma/static/js/787.484944ef.chunk.js.map",
+    "541.90c896b0.chunk.js.map": "/Magma/static/js/541.90c896b0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2e94a77.css",
-    "static/js/main.5a51bf39.js"
+    "static/css/main.127f44cb.css",
+    "static/js/main.920ecbf0.js"
   ]
 }
